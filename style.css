@@ -1,0 +1,18 @@
+.flag {
+    width: 340px;
+    height: 190px;
+  }
+  
+  .top {
+    background-color: #FF9933; 
+    height: 33.33%;
+  }
+  
+  .middle {
+    background-color: white;
+  }
+  
+  .bottom {
+    background-color: #138808;
+    height: 33.33%;
+  }
